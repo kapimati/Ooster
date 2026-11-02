@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34276654/README.md)
-# mac-de
+# Ooster
 
-Mac DE to eksperymentalna, niezależna sesja Wayland dla Arch Linux: KWin jako compositor, Rust + Qt/QML jako własna powłoka.
+Ooster to eksperymentalna, niezależna sesja Wayland dla Arch Linux: KWin jako compositor, Rust + Qt/QML jako własna powłoka.
 Nie jest to pełny zamiennik dojrzałego środowiska graficznego — część funkcji (zasobnik, wskaźniki aktywnych okien, powiadomienia i globalne menu aplikacji) pozostaje na liście rozwoju.
 
 ## Funkcje
@@ -24,7 +24,7 @@ rustup default stable
 makepkg -si
 ```
 
-Wyloguj się i wybierz **Mac DE** z menu sesji ekranu logowania. Zachowaj GNOME jako sesję zapasową.
+Wyloguj się i wybierz **Ooster** z menu sesji ekranu logowania. Zachowaj GNOME jako sesję zapasową.
 
 ## Testowanie
 
